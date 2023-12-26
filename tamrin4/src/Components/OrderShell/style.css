@@ -1,0 +1,8 @@
+.wrapper{
+    min-width: 80%;
+    max-width: 920px;
+    background-color: white;
+    height: 500px;
+    border-radius: 24px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}

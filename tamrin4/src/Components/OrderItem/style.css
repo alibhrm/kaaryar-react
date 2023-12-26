@@ -1,0 +1,28 @@
+.order {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+ }
+
+ .order_div--h3{
+   display: flex;
+   justify-content: flex-end;
+   font-family: Vazirmatn UI;
+ }
+
+ .order_div {
+    width: 33.333%;
+    display: flex;
+    justify-content: center;
+    font-family: Vazirmatn UI;
+ }
+
+ .order_div--3{
+   justify-content: flex-end;
+   font-family: Vazirmatn UI;
+ }
+
+ .order_div--4{
+   justify-content: flex-start;
+   font-family: Vazirmatn UI;
+ }

@@ -1,0 +1,15 @@
+.list{
+    height: 80%;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    overflow-y: scroll;
+    display: flex;
+}
+
+.list_buy{
+    width: 50%;
+ } 
+
+.list-sell{
+    width: 50%;
+}
